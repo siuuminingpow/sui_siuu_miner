@@ -15,7 +15,7 @@ npm install
 Miner supports SIUU coins:
 
 ```
-node mine.js --chain=mainnet --phrase="secretphrase/privatekey"
+node mine.js --chain mainnet --phrase="secretphrase/privatekey"
 ```
 
 Where secretphrase is 24 words secret phrase for your wallet private key or private key in the format of "suiprivkey1....." ( you can export it from your Sui Wallet extension
