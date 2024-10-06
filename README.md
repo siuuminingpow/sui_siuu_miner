@@ -22,8 +22,3 @@ Where secretphrase is 24 words secret phrase for your wallet private key or priv
 
 Be sure you have some SUI in your wallet for the gas, 1 SUI is enough for submiting many hashes.
 
-## License
-
-Apache
-
-**Please open-source your fork**
